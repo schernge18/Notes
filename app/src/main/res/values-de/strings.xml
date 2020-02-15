@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_string">Hier sollte etwas stehen</string>
+    <string name="login_title">Einloggen</string>
+    <string name="logout">Ausloggen</string>
+    <string name="new_note">Neu</string>
+    <string name="note_content">Text</string>
+    <string name="note_title">Titel</string>
+    <string name="password_edit">Passwort</string>
+    <string name="save_note">Speichern</string>
+    <string name="username_edit">Benutzername</string>
+</resources>
